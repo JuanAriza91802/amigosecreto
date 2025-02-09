@@ -42,10 +42,6 @@ Permite a los usuarios ingresar nombres de participantes, almacenarlos en una li
 ## 👨‍💻 Autor
 
 Desarrollado por ArizaTech.
-
-
 Presiona "Sortear amigo" para seleccionar un nombre al azar.
 
-Autor
 
-Desarrollado por [Tu Nombre].
